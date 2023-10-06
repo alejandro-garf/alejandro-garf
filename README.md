@@ -1,42 +1,22 @@
-<h1>Hi, I'm Gael! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Gael! <br/><a href="https://github.com/alejandro-garf">CS Student & Aspiring Cybersecurity Professional</a> | <a href="https://www.linkedin.com/in/gael-alejandro-fonseca/">Linkedin</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>CS 120 Intro To Programming Labs</b>
+  - [Date Difference Calculator](https://github.com/cpsc-spring-2023/cpsc-120-lab-03-alejandro-sora/tree/main/part-2)
+  - [Multi-Card Blackjack Score](https://github.com/cpsc-spring-2023/cpsc-120-lab-07-alejandro-albert/tree/main/part-2)
+  - [Prime Number Checker](https://github.com/cpsc-spring-2023/cpsc-120-lab-08-albert-and-alejandro/tree/main/part-2)
+- <b>CS 121 Object Oriented Programming Labs</b>
+  - [Restaurant Bill Calculator](https://github.com/CSUF-CPSC121L-2023F/lab-01-alejandro-garf/tree/main/prob01)
+  - [Credit Card Approval Program](https://github.com/CSUF-CPSC121L-2023F/lab-01-alejandro-garf/tree/main/prob01)
+  - [Salary Calculator](https://github.com/CSUF-CPSC121L-2023F/lab03-alejandro-garf/tree/main/prob02)
+  - [Rectangle Class Program](https://github.com/CSUF-CPSC121L-2023F/lab-04-alejandro-garf/tree/main/prob02)
+  - [Minimum of a Vector Program](https://github.com/CSUF-CPSC121L-2023F/lab-05-alejandro-garf/tree/main/prob01)
+ <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<h2>📺 Popular YouTube Videos</h2>
+ - <b>In Progress</b>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
