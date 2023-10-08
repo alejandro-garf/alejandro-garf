@@ -14,7 +14,8 @@
   - [Minimum of a Vector Program](https://github.com/CSUF-CPSC121L-2023F/lab-05-alejandro-garf/tree/main/prob01)
  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - <b>In Progress</b>
+ - <b>Google Professional Cybersecurity Certificate</b>
+   - [Portfolio](https://github.com/alejandro-garf/GoogleCybersecurityProjects)
 
 
 
