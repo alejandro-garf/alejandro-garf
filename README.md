@@ -8,10 +8,11 @@
   - [Prime Number Checker](https://github.com/cpsc-spring-2023/cpsc-120-lab-08-albert-and-alejandro/tree/main/part-2)
 - <b>CS 121 Object Oriented Programming Labs</b>
   - [Restaurant Bill Calculator](https://github.com/CSUF-CPSC121L-2023F/lab-01-alejandro-garf/tree/main/prob01)
-  - [Credit Card Approval Program](https://github.com/CSUF-CPSC121L-2023F/lab-01-alejandro-garf/tree/main/prob01)
+  - [Credit Card Approval](https://github.com/CSUF-CPSC121L-2023F/lab-01-alejandro-garf/tree/main/prob01)
   - [Salary Calculator](https://github.com/CSUF-CPSC121L-2023F/lab03-alejandro-garf/tree/main/prob02)
-  - [Rectangle Class Program](https://github.com/CSUF-CPSC121L-2023F/lab-04-alejandro-garf/tree/main/prob02)
-  - [Minimum of a Vector Program](https://github.com/CSUF-CPSC121L-2023F/lab-05-alejandro-garf/tree/main/prob01)
+  - [Rectangle Class](https://github.com/CSUF-CPSC121L-2023F/lab-04-alejandro-garf/tree/main/prob02)
+  - [Minimum of a Vector](https://github.com/CSUF-CPSC121L-2023F/lab-05-alejandro-garf/tree/main/prob01)
+  - [Digicup Program](https://github.com/CSUF-CPSC121L-2023F/lab-06-alejandro-garf/tree/main/prob02)
  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  - <b>Google Professional Cybersecurity Certificate</b>
