@@ -17,6 +17,7 @@
 
  - <b>Google Professional Cybersecurity Certificate</b>
    - [Portfolio](https://github.com/alejandro-garf/GoogleCybersecurityProjects)
+   - [Course Certificates](https://github.com/alejandro-garf/Certificates)
 
 
 
