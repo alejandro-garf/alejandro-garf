@@ -13,6 +13,7 @@
   - [Rectangle Class](https://github.com/CSUF-CPSC121L-2023F/lab-04-alejandro-garf/tree/main/prob02)
   - [Minimum of a Vector](https://github.com/CSUF-CPSC121L-2023F/lab-05-alejandro-garf/tree/main/prob01)
   - [Digicup Program](https://github.com/CSUF-CPSC121L-2023F/lab-06-alejandro-garf/tree/main/prob02)
+  - [Chirper: A Lonley Social Network](https://github.com/CSUF-CPSC121L-2023F/lab-07-alejandro-garf/tree/main/prob02)
  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  - <b>Google Professional Cybersecurity Certificate</b>
