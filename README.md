@@ -12,7 +12,7 @@
  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  - <b>Google Professional Cybersecurity Certificate</b>
-   - [Portfolio](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/README.md)
+   - [Course Portfolio](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/README.md)
    - [Course Certificates](https://github.com/alejandro-garf/Certificates/blob/main/README.md)
 
 
