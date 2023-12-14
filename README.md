@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gael! <br/><a href="https://github.com/alejandro-garf">CS Student & Aspiring Cybersecurity Professional</a> | <a href="https://www.linkedin.com/in/gael-alejandro-fonseca/">Linkedin</a>
+<h1>Hi, I'm Gael! <br/><a href="https://github.com/alejandro-garf">CS & Cybersecurity Student </a> | <a href="https://www.linkedin.com/in/gael-alejandro-fonseca/">Linkedin</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
