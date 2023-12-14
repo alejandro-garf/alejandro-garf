@@ -2,21 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>CS 120 Intro To Programming Labs</b>
-  - [Date Difference Calculator](https://github.com/cpsc-spring-2023/cpsc-120-lab-03-alejandro-sora/tree/main/part-2)
-  - [Multi-Card Blackjack Score](https://github.com/cpsc-spring-2023/cpsc-120-lab-07-alejandro-albert/tree/main/part-2)
-  - [Prime Number Checker](https://github.com/cpsc-spring-2023/cpsc-120-lab-08-albert-and-alejandro/tree/main/part-2)
-- <b>CS 121 Object Oriented Programming Labs</b>
+- <b>School Projects</b>
   - [Restaurant Bill Calculator](https://github.com/CSUF-CPSC121L-2023F/lab-01-alejandro-garf/tree/main/prob01)
   - [Credit Card Approval](https://github.com/CSUF-CPSC121L-2023F/lab-01-alejandro-garf/tree/main/prob01)
   - [Salary Calculator](https://github.com/CSUF-CPSC121L-2023F/lab03-alejandro-garf/tree/main/prob02)
-  - [Rectangle Class](https://github.com/CSUF-CPSC121L-2023F/lab-04-alejandro-garf/tree/main/prob02)
-  - [Minimum of a Vector](https://github.com/CSUF-CPSC121L-2023F/lab-05-alejandro-garf/tree/main/prob01)
-  - [Digicup Program](https://github.com/CSUF-CPSC121L-2023F/lab-06-alejandro-garf/tree/main/prob02)
   - [Chirper: A Lonley Social Network](https://github.com/CSUF-CPSC121L-2023F/lab-07-alejandro-garf/tree/main/prob02)
-  - [Pets](https://github.com/CSUF-CPSC121L-2023F/lab-08-alejandro-garf/tree/main/prob02)
   - [Text Message in a Social Network](https://github.com/CSUF-CPSC121L-2023F/lab-09-alejandro-garf/tree/main/prob02)
-  - [Class Implementation Lab](https://github.com/CSUF-CPSC121L-2023F/lab-11-alejandro-garf/tree/main/prob02)
   - [Food Wastage Tracker Final Lab](https://github.com/CSUF-CPSC121L-2023F/food-wastage-tracker-alejandro-garf)
  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
