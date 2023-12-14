@@ -15,6 +15,9 @@
   - [Digicup Program](https://github.com/CSUF-CPSC121L-2023F/lab-06-alejandro-garf/tree/main/prob02)
   - [Chirper: A Lonley Social Network](https://github.com/CSUF-CPSC121L-2023F/lab-07-alejandro-garf/tree/main/prob02)
   - [Pets](https://github.com/CSUF-CPSC121L-2023F/lab-08-alejandro-garf/tree/main/prob02)
+  - [Text Message in a Social Network](https://github.com/CSUF-CPSC121L-2023F/lab-09-alejandro-garf/tree/main/prob02)
+  - [Class Implementation Lab](https://github.com/CSUF-CPSC121L-2023F/lab-11-alejandro-garf/tree/main/prob02)
+  - [Food Wastage Tracker Final Lab](https://github.com/CSUF-CPSC121L-2023F/food-wastage-tracker-alejandro-garf)
  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  - <b>Google Professional Cybersecurity Certificate</b>
