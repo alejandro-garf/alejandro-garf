@@ -10,7 +10,7 @@
   - [Text Message in a Social Network](https://github.com/alejandro-garf/Text-Message-in-a-Social-Network/tree/main/prob02)
   - [Food Wastage Tracker Final Project](https://github.com/alejandro-garf/Food-Wastage-Project/blob/main/README.md)
 - <b>Personal Projects</b>
-  - [user Authentication System](https://github.com/alejandro-garf/User-Authetication-System)
+  - [User Authentication System](https://github.com/alejandro-garf/User-Authetication-System)
 
  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
