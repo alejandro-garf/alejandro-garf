@@ -11,7 +11,7 @@
   - [Food Wastage Tracker Final Project](https://github.com/alejandro-garf/Food-Wastage-Project/blob/main/README.md)
 - <b>Personal Projects</b>
   - [User Authentication System](https://github.com/alejandro-garf/User-Authetication-System)
-  - [Data Science Summer Research on AI/ML Jobs}(https://github.com/alejandro-garf/Data-Science-Summer-Research-)
+  - [Data Science Summer Research on AI/ML Jobs](https://github.com/alejandro-garf/Data-Science-Summer-Research-)
 
  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
