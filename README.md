@@ -21,6 +21,8 @@
    - [Course Certificates](https://github.com/alejandro-garf/Certificates/blob/main/README.md)
  - <b>Cybersecurity Research Report</b>
    - [Security Audit Research Report](https://github.com/alejandro-garf/CPSC-253-Research-Report)
+- <b>Security Blue Team</b>
+   - [Security Audit Research Report]()
 
 
 
