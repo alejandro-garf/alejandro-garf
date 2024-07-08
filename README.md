@@ -22,7 +22,7 @@
  - <b>Cybersecurity Research Report</b>
    - [Security Audit Research Report](https://github.com/alejandro-garf/CPSC-253-Research-Report)
 - <b>Security Blue Team</b>
-   - [Blue Tean Junior Analyst Pathway](https://github.com/alejandro-garf/Blue-Team-Junior-Analyst/blob/main/README.md)
+   - [Blue Team Junior Analyst Pathway](https://github.com/alejandro-garf/Blue-Team-Junior-Analyst/blob/main/README.md)
 
 
 
