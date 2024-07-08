@@ -9,6 +9,7 @@
   - [Chirper: A Lonley Social Network](https://github.com/alejandro-garf/-Chirper---A-lonely-social-network/tree/main/prob02)
   - [Text Message in a Social Network](https://github.com/alejandro-garf/Text-Message-in-a-Social-Network/tree/main/prob02)
   - [Food Wastage Tracker Final Project](https://github.com/alejandro-garf/Food-Wastage-Project/blob/main/README.md)
+  - [Data Structures & Algorithms](https://github.com/alejandro-garf/Food-Wastage-Project/blob/main/README.md)
 - <b>Personal Projects</b>
   - [User Authentication System](https://github.com/alejandro-garf/User-Authetication-System)
   - [Data Science Summer Research on AI/ML Jobs](https://github.com/alejandro-garf/Data-Science-Summer-Research-)
