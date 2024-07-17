@@ -13,7 +13,7 @@
 - <b>Personal Projects</b>
   - [User Authentication System](https://github.com/alejandro-garf/User-Authetication-System)
   - [Data Science Summer Research on AI/ML Jobs](https://github.com/alejandro-garf/Data-Science-Summer-Research-)
-  - [ToDoList](https://github.com/alejandro-garf/ToDoList/blob/main/README.md)
+  - [To-Do List](https://github.com/alejandro-garf/ToDoList/blob/main/README.md)
 
  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
