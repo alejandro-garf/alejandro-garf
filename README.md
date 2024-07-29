@@ -16,7 +16,7 @@
   - [Secure To-Do List](https://github.com/alejandro-garf/ToDoList/blob/main/README.md)
   - [Simple Webpage](https://github.com/alejandro-garf/Simple-Webpage/blob/main/README.md)
   - [Portfolio Website](https://github.com/alejandro-garf/PortfolioWebsite)
-  - [Dashoard UI/UX Design](https://github.com/alejandro-garf/Hephaestus/blob/main/Dashboard/README.md)
+  - [Dashboard UI/UX Design](https://github.com/alejandro-garf/Hephaestus/blob/main/Dashboard/README.md)
 
  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
