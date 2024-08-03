@@ -17,6 +17,7 @@
   - [Simple Webpage](https://github.com/alejandro-garf/Simple-Webpage/blob/main/README.md)
   - [Portfolio Website](https://github.com/alejandro-garf/PortfolioWebsite)
   - [Dashboard UI/UX Design](https://github.com/alejandro-garf/Hephaestus/blob/main/Dashboard/README.md)
+  - [ExpenseTracker](https://github.com/alejandro-garf/ExpenseTracker/tree/main)
 
  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
